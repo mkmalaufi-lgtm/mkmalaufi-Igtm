@@ -1,4 +1,5 @@
-# Hi, I'm [Malak Khalaf ALoufi] ## :mortar_board: Education
+# Hi, I'm [Malak Khalaf ALoufi]
+Education
 - Degree: Bachelor's in [Telecommunication and Electronic Engineering]
 - University: [University of Technology and Applied Sciences-ALMuussnaah]
 - Graduation Year: [2021]
